@@ -43,12 +43,13 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thaper.edu)** pu
 
 <img width="490" height="270" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" align=right>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 OS Projects
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy doing
+  - ‍📖 Reading Books
+  - 🔭 Physics
+  - 🖥️ OS Projects
   - 🖼 C
   - 🛠 DIY Projects
   - 🤖 Robotics
-  - ‍☠️ Pirating :)
 - 🤔 I’m looking for help with OS
 - 💬 Ask me about Physics, Mathematics, OS and Calculus
 - 📙 Check out my [Resume](https://www.linkedin.com/in/radhesh-g/)
