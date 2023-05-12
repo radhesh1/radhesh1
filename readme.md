@@ -1,5 +1,5 @@
 
-# Hi `There` <a href="https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
+# Hi `There` <a href="https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"></a>
 I am <b>Radhesh Goel</b>, I am only curious about how things work around me
 but as we all know, life is a Rollercoaster.
 
