@@ -1,5 +1,5 @@
 
-# Hi `There` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
+# Hi `There` <a href="https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
 I am <b>Radhesh Goel</b>, I am only curious about how things work around me
 but as we all know, life is a Rollercoaster.
 
@@ -96,12 +96,13 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://vim.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
-<a href="https://www.nano-editor.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/nano/nano-original.svg" alt="nano" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/emacs/emacs-original.svg" alt="nano" width="40" height="40"/> </a>
+<a href="https://www.nano-editor.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Gnu-nano.svg" alt="nano" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:EmacsIcon.svg" alt="emacs" width="40" height="40"/> </a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://debian.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://fedoraproject.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-original.svg" alt="unix" width="40" height="40"/> </a>
+<a href="https://gnu.org" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Official_gnu.svg" alt="vim" width="40" height="40"/> </a>
 <a href="http://opengroup.org/unix" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/unix/unix-original.svg" alt="unix" width="40" height="40"/> </a>
 <a href="https://developer.arm.com/Architectures" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/aarch64/aarch64-original.svg" alt="aarch64" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
