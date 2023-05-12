@@ -79,7 +79,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thaper.edu)** pu
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=dgbkn" alt="dgbkn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/devgbkn" target="blank"><img src="https://img.shields.io/twitter/follow/devgbkn?logo=twitter&style=for-the-badge" alt="devgbkn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Radhesh_Goel" target="blank"><img src="https://img.shields.io/twitter/follow/radhesh1?logo=twitter&style=for-the-badge" alt="devgbkn" /></a> </p>
 
 <br>
 
