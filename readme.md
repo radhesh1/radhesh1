@@ -96,8 +96,8 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-orignal.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://debian.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-orignal.svg" alt="debian" width="40" height="40"/> </a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-orignal.svg" alt="ubuntu" width="40" height="40"/> </a>
-<a href="https://unix.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/unix/unix-orignal.svg" alt="unix" width="40" height="40"/> </a>
-<a href="https://unix.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/unix/unix-orignal.svg" alt="unix" width="40" height="40"/> </a>
+<a href="https://fedoraproject.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-orignal.svg" alt="unix" width="40" height="40"/> </a>
+<a href="http://opengroup.org/unix" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/unix/unix-orignal.svg" alt="unix" width="40" height="40"/> </a>
 <a href="https://developer.arm.com/Architectures" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/aarch64/aarch64-orignal.svg" alt="aarch64" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-orignal.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-orignal.svg" alt="github" width="40" height="40"/> </a>
