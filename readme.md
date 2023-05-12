@@ -1,6 +1,6 @@
 
 # Hi `There` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
-I am <b>Dev Goyal</b>, thanks for taking the time to read my github profile! 😊
+I am <b>Radhesh Goel</b>, I am only curious about how things work arround me
 
 
 <p align="center">
