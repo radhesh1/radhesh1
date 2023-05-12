@@ -103,7 +103,7 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 <a href="https://debian.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://fedoraproject.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-original.svg" alt="unix" width="40" height="40"/> </a>
-<a href="https://gnu.org" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Official_gnu.svg" alt="gnu" width="40" height="40"/> </a>
+<a href="https://gnu.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Official_gnu.svg" alt="gnu" width="40" height="40"/> </a>
 <a href="http://opengroup.org/unix" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/unix/unix-original.svg" alt="unix" width="40" height="40"/> </a>
 <a href="https://developer.arm.com/Architectures" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/aarch64/aarch64-original.svg" alt="aarch64" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
