@@ -110,7 +110,7 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/matlab/matlab-plain.svg" alt="matlab" width="40" height="40"/> </a>
 <a href="https://moodle.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/moodle/moodle-plain.svg" alt="moodle" width="40" height="40"/> </a>
 <a href="https://gimp.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/gimp/gimp-plain.svg" alt="gimp" width="40" height="40"/> </a>
-<a href="https://canva.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/canva/canva-plain.svg" alt="canva" width="40" height="40"/> </a>
+<a href="https://canva.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
 
 
 
