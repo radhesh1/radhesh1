@@ -33,7 +33,7 @@ but as we all know, life is a Rollercoaster.
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@Thapar University](https://www.thaper.edu)** pursuing Computer Enginnering. I'm a **Tech Enthusiast 💻 😃** passionate about learning about nature and its ways. 
+I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusiast 💻 😃** passionate about learning about nature and its ways. 
 <pr>aequatio nulla mihi significationem habet , nisi Dei cogitationem exprimat. <br/><br/>
 
 
