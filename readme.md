@@ -133,14 +133,6 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 
 </p>
 
-
-
-<img width="50%" height="100%" src="https://user-images.githubusercontent.com/65810521/185932179-acfa2ec4-d376-48b4-ae25-62477129f16d.png" align=left>
-
-<h2><b>"Work like a Samurai,Making no voice,let your work be your noice."</b></h2>
-
-<br>
-
 <h3 align="center">Thanks for reading 💖</h3>
 
 <p align="center">
