@@ -41,7 +41,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thaper.edu)** pu
 ## ⚡️ A Few Quick Facts
 
 
-<img width="490" height="270" src="https://i.gifer.com/RMDe.gif" align=right>
+<img width="490" height="270" src="https://i.imgur.com/jiK9AU1.gif" align=right>
 
 - <img src="https://i.gifer.com/RMDe.gif" width="30">  I enjoy doing
   - ‍📖 Reading Books
