@@ -94,6 +94,13 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-orignal.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-orignal.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-orignal.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://debian.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-orignal.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-orignal.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://unix.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/unix/unix-orignal.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://developer.arm.com/Architectures" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/aarch64/aarch64-orignal.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-orignal.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-orignal.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-orignal.svg" alt="linux" width="40" height="40"/> </a>
 
 
 <p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhesh1&layout=compact&theme=radical" alt="radhesh1" /><img width="55%" src="https://github-readme-stats.vercel.app/api?username=radhesh1&show_icons=true&include_all_commits=true&theme=radical" alt="radhesh1" /></p>
