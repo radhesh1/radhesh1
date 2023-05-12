@@ -44,20 +44,19 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thaper.edu)** pu
 <img width="490" height="270" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Web Developement Projects
-  - 🖼 Javascript
+  - 📊 OS Projects
+  - 🖼 C
   - 🛠 DIY Projects
-  - 🤖 Automation
+  - 🤖 Robotics
   - ‍☠️ Pirating :)
-- 📝 I write technical blogs and articles
-- 🤔 I’m looking for help with ML
-- 💬 Ask me about tricks, Web Dev, App Dev..
-- 📙 Check out my [Resume](https://www.linkedin.com/in/dev-goyal-041512203//)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+- 🤔 I’m looking for help with OS
+- 💬 Ask me about Physics, Mathematics, OS and Calculus
+- 📙 Check out my [Resume](https://www.linkedin.com/in/radhesh-g/)
+- 🎉 Fun-Fact: I Love Physics,Astro Physics ,and Classical Physics and read a lot of ancient science books
 
   
 ### 🖥️ My Work Station
- <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"> <img src ="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+ <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">  <img src ="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"> 
 
 
 
