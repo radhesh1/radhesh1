@@ -88,20 +88,20 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://raspberrypi.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
-<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-orignal.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.open-std.org/jtc1/sc22/wg21/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-orignal.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-orignal.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-orignal.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-orignal.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-orignal.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://debian.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-orignal.svg" alt="debian" width="40" height="40"/> </a>
-<a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-orignal.svg" alt="ubuntu" width="40" height="40"/> </a>
-<a href="https://fedoraproject.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-orignal.svg" alt="unix" width="40" height="40"/> </a>
-<a href="http://opengroup.org/unix" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/unix/unix-orignal.svg" alt="unix" width="40" height="40"/> </a>
-<a href="https://developer.arm.com/Architectures" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/aarch64/aarch64-orignal.svg" alt="aarch64" width="40" height="40"/> </a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-orignal.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-orignal.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-orignal.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.open-std.org/jtc1/sc22/wg21/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://debian.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
+<a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/> </a>
+<a href="https://fedoraproject.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-original.svg" alt="unix" width="40" height="40"/> </a>
+<a href="http://opengroup.org/unix" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/unix/unix-original.svg" alt="unix" width="40" height="40"/> </a>
+<a href="https://developer.arm.com/Architectures" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/aarch64/aarch64-original.svg" alt="aarch64" width="40" height="40"/> </a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 
 <p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhesh1&layout=compact&theme=radical" alt="radhesh1" /><img width="55%" src="https://github-readme-stats.vercel.app/api?username=radhesh1&show_icons=true&include_all_commits=true&theme=radical" alt="radhesh1" /></p>
