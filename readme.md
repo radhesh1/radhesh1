@@ -68,7 +68,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thaper.edu)** pu
     <a href="https://telegram.dog/isaacn1674" target="blank"><img align="center" src="https://simpleicons.vercel.app/telegram/1B4F72" alt="radhesh goel" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=918307600141" target="blank"><img align="center" src="https://simpleicons.vercel.app/whatsapp/145A32" alt="whatsapp" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/radhesh-g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radhesh-g" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCOtwVDSIusBij3UzxBFLxmQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Radhesh Goel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCftjyipmB9qKi6BQmCXaOYg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Radhesh Goel" height="30" width="40" /></a>
 <a href="https://twitter.com/Radhesh_Goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devgbkn" height="30" width="40" /></a>
 
 </p>
