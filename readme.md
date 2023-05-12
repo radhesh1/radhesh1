@@ -46,6 +46,7 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thaper.edu)** pu
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy doing
   - ‍📖 Reading Books
   - 🔭 Physics
+  - 🔢 Mathematics
   - 🖥️ OS Projects
   - 🖼 C
   - 🛠 DIY Projects
