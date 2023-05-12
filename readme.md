@@ -8,7 +8,7 @@ I am <b>Radhesh Goel</b>, I am only curious about how things work arround me
     
     
 <a href="https://newflixy.web.app">
-    <img src="[https://i.imgur.com/PqoavY9.gif](https://33.media.tumblr.com/d357bc53a0386cf6f22928eeae1208c2/tumblr_nmsw7lEeZm1us21qco1_1280.gif)" width= "30%">
+    <img src="https://i.imgur.com/mrASyfq.gif" width= "30%">
     </a>
 
           
