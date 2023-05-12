@@ -136,4 +136,4 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 <h3 align="center">Thanks for reading 💖</h3>
 
 <p align="center">
-<a href="https://thetorflix.vercel.app"> <img width="30%" src="https://user-images.githubusercontent.com/65810521/205823737-ab559791-4c09-49c8-a815-07a7c4e13c57.png"></a></p>
+<a href=""> <img width="30%" src="https://user-images.githubusercontent.com/65810521/205823737-ab559791-4c09-49c8-a815-07a7c4e13c57.png"></a></p>
