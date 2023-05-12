@@ -107,6 +107,7 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 <a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://rust.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
+<a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="markdown" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/matlab/matlab-plain.svg" alt="matlab" width="40" height="40"/> </a>
 <a href="https://moodle.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/moodle/moodle-plain.svg" alt="moodle" width="40" height="40"/> </a>
 <a href="https://gimp.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/gimp/gimp-plain.svg" alt="gimp" width="40" height="40"/> </a>
