@@ -9,7 +9,7 @@ but as we all know, life is a Rollercoaster.
     
     
 <a href="https://gg.gg/isaacnewtonus">
-    <img src="https://i.imgur.com/mrASyfq.gif" width= "30%">
+    <img src="https://i.imgur.com/mrASyfq.gif" width= "60%">
     </a>
 
           
