@@ -95,6 +95,7 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 <a href="https://cmake.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cmake/cmake-plain.svg" alt="cmake" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://vim.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" alt="markdown" width="40" height="40"/> </a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://debian.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
@@ -103,7 +104,7 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 <a href="https://developer.arm.com/Architectures" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/aarch64/aarch64-original.svg" alt="aarch64" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original.svg" alt="moodle" width="40" height="40"/> </a>
+<a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
 <a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://rust.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
