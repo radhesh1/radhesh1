@@ -1,6 +1,7 @@
 
 # Hi `There` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
-I am <b>Radhesh Goel</b>, I am only curious about how things work arround me
+I am <b>Radhesh Goel</b>, I am only curious about how things work around me
+but as we all know, life is a Rollercoaster.
 
 
 <p align="center">
