@@ -8,10 +8,9 @@ but as we all know, life is a Rollercoaster.
     <!-- <a href="https://app.daily.dev/radhesh1"><img src="https://api.daily.dev/devcards/d919498fffbf4f53b1f222095885b332.png?r=yj6" width="30%" alt="_radhesh_goel__'s Dev Card"/></a> -->
     
     
-<a href="https://gg.gg/isaacnewtonus">
+<a href="https://radhesh.eu.org/">
     <img src="https://i.imgur.com/mrASyfq.gif" width= "60%">
     </a>
-
           
 </p>
     <br>
@@ -42,9 +41,8 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 ## ⚡️ A Few Quick Facts
 
 
-<img width="490" height="270" src="https://i.imgur.com/jiK9AU1.gif" align=right>
-
-- <img src="https://i.gifer.com/RMDe.gif" width="30">  I enjoy doing
+<img width="480" height="270" src="https://i.imgur.com/jiK9AU1.gif" align=right>
+ I enjoy doing
   - ‍📖 Reading Books
   - 🔭 Physics
   - 🔢 Mathematics
