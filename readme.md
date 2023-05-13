@@ -132,7 +132,7 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 
 </p>
 
-<h3 align="center">Thanks for reading 💖</h3>
+<h3 align="center">Thanks for reading. 💖</h3>
 
 <p align="center">
 <a href=""> <img width="30%" src="https://octodex.github.com/images/bannekat.png"></a></p>
