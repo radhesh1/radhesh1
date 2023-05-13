@@ -42,19 +42,19 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 
 <a href="https://gg.gg/isaacnewtonus">
 <img width="480" height="270" src="https://i.imgur.com/jiK9AU1.gif" align=right>
- </a>
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy doing
-  - ‍📖 Reading Books
-  - 🔭 Physics
-  - 🔢 Mathematics
-  - 🖥️ OS Projects
-  - 🖼 C
+</a>
+<br>
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Web Developement Projects
+  - 🖼 Javascript
   - 🛠 DIY Projects
-  - 🤖 Robotics
-- 🤔 I’m looking for help with OS
-- 💬 Ask me about Physics, Mathematics, OS and Calculus
-- 📙 Check out my [Resume](https://www.linkedin.com/in/radhesh-g/)
-- 🎉 Fun-Fact: I Love Physics,Astro Physics ,and Classical Physics and read a lot of ancient science books
+  - 🤖 Automation
+  - ‍☠️ Pirating :)
+- 📝 I write technical blogs and articles
+- 🤔 I’m looking for help with ML
+- 💬 Ask me about tricks, Web Dev, App Dev..
+- 📙 Check out my [Resume](https://www.linkedin.com/in/dev-goyal-041512203//)
+- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
   
 ### 🖥️ My Work Station
