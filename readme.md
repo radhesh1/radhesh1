@@ -42,7 +42,8 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 
 
 <img width="480" height="270" src="https://i.imgur.com/jiK9AU1.gif" align=right>
- I enjoy doing
+ 
+-  I enjoy doing
   - ‍📖 Reading Books
   - 🔭 Physics
   - 🔢 Mathematics
