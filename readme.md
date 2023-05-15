@@ -39,9 +39,7 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 
 
 ## ⚡️ A Few Quick Facts
-<a href="https://gg.gg/isaacnewtonus">
 <img width="480" height="270" src="https://i.imgur.com/jiK9AU1.gif" align=right>
-</a>
 - [Subjects](#subjects)
     - [Physics](#physics)
         - [Lectures](#lectures)
