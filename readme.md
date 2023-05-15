@@ -39,20 +39,25 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 
 
 ## ⚡️ A Few Quick Facts
-<img width="480" height="270" src="https://i.imgur.com/jiK9AU1.gif" align=right>
-+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy doing
-  + ‍📖 Reading Books
-  + 🔭 Physics
-  + 🔢 Mathematics
-  + 🖥️ OS Projects
-  + 🖼 C
-  + 🛠 DIY Projects
-  + 🤖 Robotics
-+ 🤔 I’m looking for help with OS
-+ 💬 Ask me about Physics, Mathematics, OS and Calculus
-+ 📙 Check out my [Resume](https://www.linkedin.com/in/radhesh-g/)
-+ 🎉 Fun-Fact: I Love Physics,Astro Physics ,and Classical Physics and read a lot of ancient science books
-
+<a href="https://gg.gg/isaacnewtonus/">
+    <img width="480" height="270" src="https://i.imgur.com/jiK9AU1.gif" align=right>
+</a>
+<ul>
+<li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy doing<ul>
+<li>‍📖 Reading Books</li>
+<li>🔭 Physics</li>
+<li>🔢 Mathematics</li>
+<li>🖥️ OS Projects</li>
+<li>🖼 C</li>
+<li>🛠 DIY Projects</li>
+<li>🤖 Robotics</li>
+</ul>
+</li>
+<li>🤔 I’m looking for help with OS</li>
+<li>💬 Ask me about Physics, Mathematics, OS and Calculus</li>
+<li>📙 Check out my <a href="https://www.linkedin.com/in/radhesh-g/">Resume</a></li>
+<li>🎉 Fun-Fact: I Love Physics,Astro Physics ,and Classical Physics and read a lot of ancient science books</li>
+</ul>
   
 ### 🖥️ My Work Station
  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"> <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white"> <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">  <img src ="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> <img src="https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg"> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"> <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"> <img src="http://ForTheBadge.com/images/badges/built-with-science.svg">
