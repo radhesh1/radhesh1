@@ -81,7 +81,7 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=radhesh1" alt="radhesh1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Radhesh_Goel" target="blank"><img src="https://img.shields.io/twitter/follow/radhesh1?logo=twitter&style=for-the-badge" alt="devgbkn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Radhesh_Goel" target="blank"><img src="https://img.shields.io/twitter/follow/radhesh1?logo=twitter&style=for-the-badge" alt="radhesh1" /></a> </p>
 
 <br>
 
