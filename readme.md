@@ -94,18 +94,21 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 #### Languages
 <details>
 <summary> Click to Expand </summary>
+<h4><b>C suite</b></h4> 
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.open-std.org/jtc1/sc22/wg21/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.open-std.org/jtc1/sc22/wg14/www/projects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/embeddedc/embeddedc-plain.svg" alt="embeddedc" width="40" height="40"/> </a>
+<a href="https://cmake.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cmake/cmake-plain.svg" alt="cmake" width="40" height="40"/> </a>
+<br>
+<h4><b>Others</b></h4> 
 <a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://rust.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-<a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="markdown" width="40" height="40"/> </a>
-<a href="https://cmake.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cmake/cmake-plain.svg" alt="cmake" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/matlab/matlab-plain.svg" alt="matlab" width="40" height="40"/> </a>
+<a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
 </details>
   
 #### Text Editors
