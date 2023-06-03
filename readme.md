@@ -102,6 +102,10 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 <a href="https://rust.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="markdown" width="40" height="40"/> </a>
+<a href="https://cmake.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cmake/cmake-plain.svg" alt="cmake" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/matlab/matlab-plain.svg" alt="matlab" width="40" height="40"/> </a>
 </details>
   
 #### Text Editors
@@ -146,15 +150,9 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 <a href="https://developer.arm.com/Architectures
 " target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/aarch64/aarch64-original.svg" alt="aarch64" width="40" height="40"/> </a>
 </details>
-<a href="https://cmake.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cmake/cmake-plain.svg" alt="cmake" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
-
 
 <a href="https://gnu.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Official_gnu.svg" alt="gnu" width="40" height="40"/> </a>
 
-
-<a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="markdown" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/matlab/matlab-plain.svg" alt="matlab" width="40" height="40"/> </a>
 <a href="https://moodle.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/moodle/moodle-plain.svg" alt="moodle" width="40" height="40"/> </a>
 
 </details>
