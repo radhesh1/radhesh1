@@ -77,50 +77,91 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 
 <br>
 
+## My Details
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhesh1&label=Profile%20views&color=0e75b6&style=flat" alt="radhesh1" /> </p>
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=radhesh1" alt="radhesh1" /> </p>
-
 <p align="left"> <a href="https://twitter.com/Radhesh_Goel" target="blank"><img src="https://img.shields.io/twitter/follow/radhesh1?logo=twitter&style=for-the-badge" alt="radhesh1" /></a> </p>
 
+### Trophies
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=radhesh1" alt="radhesh1" /> </p>
 <br>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://raspberrypi.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
-<a href="https://riscv.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/RISC-V-logo.svg" alt="vim" width="40" height="40"/> </a>
+### Languages and Tools:
+<details>
+<summary> Click to Expand </summary>
+
+#### Languages
+<details>
+<summary> Click to Expand </summary>
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.open-std.org/jtc1/sc22/wg21/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.open-std.org/jtc1/sc22/wg14/www/projects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/embeddedc/embeddedc-plain.svg" alt="embeddedc" width="40" height="40"/> </a>
-<a href="https://cmake.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cmake/cmake-plain.svg" alt="cmake" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://rust.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+<a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+</details>
+  
+#### Text Editors
+<details>
+<summary> Click to Expand </summary>
 <a href="https://vim.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
 <a href="https://www.nano-editor.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Gnu-nano.svg" alt="nano" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="emacs" width="40" height="40"/> </a>
+</details>
+
+#### Source Control
+<details>
+<summary> Click to Expand </summary>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
+</details>
+    
+#### Video Editors
+<details>
+<summary> Click to Expand </summary>
+<a href="https://gimp.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/gimp/gimp-plain.svg" alt="gimp" width="40" height="40"/> </a>
+<a href="https://canva.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a></a>
+</details>
+
+#### Operating Systems
+<details>
+<summary> Click to Expand </summary>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://debian.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://fedoraproject.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-original.svg" alt="unix" width="40" height="40"/> </a>
-<a href="https://gnu.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Official_gnu.svg" alt="gnu" width="40" height="40"/> </a>
 <a href="http://opengroup.org/unix" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/unix/unix-original.svg" alt="unix" width="40" height="40"/> </a>
-<a href="https://developer.arm.com/Architectures" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/aarch64/aarch64-original.svg" alt="aarch64" width="40" height="40"/> </a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
-<a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://rust.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-<a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
+</details>
+
+#### Architectures
+<details>
+<summary> Click to Expand </summary>
+<p align="left"> 
+<a href="https://raspberrypi.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
+<a href="https://riscv.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/RISC-V-logo.svg" alt="vim" width="40" height="40"/> </a>
+<a href="https://developer.arm.com/Architectures
+" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/aarch64/aarch64-original.svg" alt="aarch64" width="40" height="40"/> </a>
+</details>
+<a href="https://cmake.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cmake/cmake-plain.svg" alt="cmake" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
+
+
+<a href="https://gnu.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Official_gnu.svg" alt="gnu" width="40" height="40"/> </a>
+
+
 <a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="markdown" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/matlab/matlab-plain.svg" alt="matlab" width="40" height="40"/> </a>
 <a href="https://moodle.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/moodle/moodle-plain.svg" alt="moodle" width="40" height="40"/> </a>
-<a href="https://gimp.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/gimp/gimp-plain.svg" alt="gimp" width="40" height="40"/> </a>
-<a href="https://canva.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
 
+</details>
 
-
+### My Statistics
+<details>
+<summary> Click to Expand </summary>
 <p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhesh1&layout=compact&theme=radical" alt="radhesh1" /><img width="55%" src="https://github-readme-stats.vercel.app/api?username=radhesh1&show_icons=true&include_all_commits=true&theme=radical" alt="radhesh1" /></p>
 
 
@@ -133,7 +174,7 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radhesh1&theme=github_dark">
 
 </p>
-
+</details>
 <h3 align="center">Thanks for reading. 💖</h3>
 
 <p align="center">
