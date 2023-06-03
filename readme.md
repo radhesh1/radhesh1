@@ -79,11 +79,10 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 
 ## My Details
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=radhesh1&label=Profile%20views&color=0e75b6&style=flat" alt="radhesh1" /> </p>
-<p align="left"> <a href="https://twitter.com/Radhesh_Goel" target="blank"><img src="https://img.shields.io/twitter/follow/radhesh1?logo=twitter&style=for-the-badge" alt="radhesh1" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=radhesh1&label=Profile%20views&color=0e75b6&style=flat" alt="radhesh1" height="25"/><a href="https://twitter.com/Radhesh_Goel" target="blank"><img src="https://img.shields.io/twitter/follow/radhesh1?logo=twitter&style=for-the-badge" alt="radhesh1" height="25"/></a> </p>
 
 ### Trophies
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=radhesh1" alt="radhesh1" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=radhesh1" alt="radhesh1"/> </p>
 <br>
 
 
@@ -154,10 +153,8 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 " target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/aarch64/aarch64-original.svg" alt="aarch64" width="40" height="40"/> </a>
 </details>
 
-<a href="https://gnu.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Official_gnu.svg" alt="gnu" width="40" height="40"/> </a>
-
-<a href="https://moodle.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/moodle/moodle-plain.svg" alt="moodle" width="40" height="40"/> </a>
-
+<p><a href="https://gnu.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Official_gnu.svg" alt="gnu" width="40" height="40"/> </a>
+<a href="https://moodle.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/moodle/moodle-plain.svg" alt="moodle" width="40" height="40"/> </a></p>
 </details>
 
 ### My Statistics
