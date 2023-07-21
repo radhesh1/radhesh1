@@ -178,3 +178,4 @@ I'm an **Undergrad Student** pursuing Computer Enginnering. I'm a **Tech Enthusi
 
 <p align="center">
 <a href=""> <img width="30%" src="https://octodex.github.com/images/bannekat.png"></a></p>
+**all of my code if it is not licensed can be considered under LGPL 3.0**
